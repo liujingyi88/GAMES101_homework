@@ -2,7 +2,6 @@
 Assignments of GAMES101.
 
 ## Configuration of visual studio 
- ```
 ### opencv
 https://opencv.org/
 
